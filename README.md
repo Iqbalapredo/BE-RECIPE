@@ -112,9 +112,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Food Recipe`](https://github.com/Iqbalapredo/BE-RecipeFood)
+:rocket: [`Backend Food Recipe`](https://github.com/Iqbalapredo/BE-RECIPE)
 
-:rocket: [`Frontend Food Recipe`](https://github.com/Iqbalapredo/FE-RecipeFood)
+:rocket: [`Frontend Food Recipe`](https://github.com/Iqbalapredo/FE-RECIPE)
 
 :rocket: [`Demo Food Recipe`](https://mama-recipe2022.netlify.app/)
 
