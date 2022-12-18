@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend Food Recipe</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/BE-RecipeFood"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Iqbalapredo/BE-RECIPE"><strong>Explore the docs »</strong></a>
     <br />
     <a href="">View Demo</a>
     ·
@@ -66,7 +66,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone  https://github.com/Iqbalapredo/BE-RecipeFood.git
+git clone  https://github.com/Iqbalapredo/BE-RECIPE.git
 ```
 - Go To Folder Repo
 ```
@@ -123,4 +123,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/BE-RecipeFood](https://github.com/Iqbalapredo/BE-RecipeFood)
+Project Link: [https://github.com/Iqbalapredo/BE-RecipeFood](https://github.com/Iqbalapredo/BE-RECIPE)
